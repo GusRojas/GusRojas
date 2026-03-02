@@ -14,15 +14,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola, soy Gustavo Mandujano Rojas 👋
+# Gustavo Mandujano Rojas
 
-Ingeniero en ML & Robótica | Tesis en navegación autónoma de drones VTOL con Deep Learning
+**Graduate Researcher in Machine Learning & Robotics**  
+Centro de Investigación en Computación — Maestría en Ciencias en Ingeniería de Cómputo
 
-## Sobre mí
-- 🎓 Maestría en Ciencias en Ingeniería de Computo — mi línea de investigación, interés y pasión es navegación autónoma aérea con redes neuronales. 
-- 🤖 Experiencia en PyTorch, ROS2, Docker, Raspberry Pi 5, Jetson Orin
-- 📊 También trabajo en análisis de datos con SQL y Python. 
+---
 
-## Contacto
-- 📧 gusm.rojas@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-mandujano-rojas/)
+## About Me
+
+I am a graduate student specializing in autonomous navigation systems for VTOL drones using deep learning. My thesis focuses on vision-based control, processing sequences of grayscale images combined with IMU sensor data to predict flight commands in real time.
+
+My research involves designing, training, and evaluating neural network architectures — including ConvLSTM, SA-ConvLSTM, MobileNetV3, and ResNet variants — and deploying them on embedded hardware such as the Raspberry Pi 5 and NVIDIA Jetson Orin.
+
+Beyond my thesis work, I have experience in data analysis, database management, and software engineering applied to robotics and machine learning workflows.
+
+---
+
+## Skills & Technologies
+
+**Machine Learning & Deep Learning**
+`PyTorch` `ONNX` `ConvLSTM` `SA-ConvLSTM` `MobileNetV3` `ResNet` `PilotNet`
+
+**Robotics & Embedded Systems**
+`ROS2` `Raspberry Pi 5` `NVIDIA Jetson Orin` `VTOL Drones`
+
+**Software & Infrastructure**
+`Python` `Docker` `Linux` `Git` `SQL` `CUDA`
+
+---
+
+## Featured Projects
+
+### 🤖 Autonomous Navigation for VTOL Drones
+Vision-based navigation system using deep learning to process image sequences and IMU data for real-time flight control prediction. Includes comparative evaluation of multiple neural network architectures deployed on embedded platforms.
+
+### 📊 Chicago Taxi Data Analysis
+Exploratory and statistical analysis of large-scale urban mobility data using SQL and Python. Includes hypothesis testing and integration with external weather datasets.
+
+---
+
+## Contact
+
+- 📧 [gusm.rojas@gmail.com](mailto:gusm.rojas@gmail.com)
+- 💼 [linkedin.com/in/gustavo-mandujano-rojas](https://www.linkedin.com/in/gustavo-mandujano-rojas/)
