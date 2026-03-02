@@ -48,7 +48,7 @@ Beyond my thesis work, I have experience in data analysis, database management, 
 
 ### 🤖 Autonomous Navigation for VTOL Drones
 Vision-based navigation system using deep learning to process image sequences and IMU data for real-time flight control prediction. Includes comparative evaluation of multiple neural network architectures deployed on embedded platforms.
-(https://github.com/GusRojas/Evaluation-and-Comparison-of-Autonomous-Navigation-Models)
+[Ver repositorio →](https://github.com/GusRojas/Evaluation-and-Comparison-of-Autonomous-Navigation-Models)
 
 ### 📊 Chicago Taxi Data Analysis
 Exploratory and statistical analysis of large-scale urban mobility data using SQL and Python. Includes hypothesis testing and integration with external weather datasets.
