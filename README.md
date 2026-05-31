@@ -60,3 +60,4 @@ Exploratory and statistical analysis of large-scale urban mobility data using SQ
 
 - 📧 [gusm.rojas@gmail.com](mailto:gusm.rojas@gmail.com)
 - 💼 [linkedin.com/in/gustavo-mandujano-rojas](https://www.linkedin.com/in/gustavo-mandujano-rojas/)
+- 🤖 [https://www.robotti3d.com.mx/es](https://www.robotti3d.com.mx/es)
